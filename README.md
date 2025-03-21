@@ -1,8 +1,8 @@
 # 谢德源的自我介绍
 
-<img src="https://github.com/xxyuax/xdydsg/blob/main/images/love.jpg" width="200" alt="章鱼哥形象">
+<img src="https://github.com/xxyuax/xdydsg/blob/main/images/love.jpg" width="200" alt="我的形象">
 
-大家好，我是**谢德源**，我的身份是*蟹堡王的收银员*。以下是我的自我介绍：
+大家好，我是**谢德源**。以下是我的自我介绍：
 
 ---
 
