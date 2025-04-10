@@ -96,4 +96,4 @@
    ```
    - 这些打印语句用于测试整个流程，通过调用 `predict()` 函数来分类特定的邮件文件。
    - 
-<img src="https://github.com/caiwenshen123/GitDemo/blob/master/images/p1.png" width="800" alt="截图一">
+<img src="C:\Users\24647\Desktop\任务四\599cc321772d8b5a98c199e0620aa4a.png" width="800" alt="截图一">
